@@ -3,4 +3,4 @@ Simulation of the interaction between N bodies under gravity using the leapfrog 
 
 To produce the simulation, frames are generated for each timestep and saved as images. The resulting sequence of images are combined into a single animated GIF using either a Linux terminal or an external GIF maker. GIFcode.py contains code for this and should be used immediately after the simulation is run, inplace of the plotting section in NBody.py . 
 
-The GIF attached is for a simulation with N = 100, tEnd = 5 and random_velocities = True
+The GIF attached is for a simulation with N = 100, tEnd = 5 and random_velocities = True.
